@@ -6,6 +6,10 @@ For example, an employee may change departments but continue to retain access fr
 
 To study this problem, I built an end-to-end analytics workflow using synthetic IAM data. The system evaluates employee roles, applications, permissions, and access activity to identify accounts that may require review.
 
+## Data Note
+
+All datasets in this project are synthetically generated for demonstration purposes. They do not contain real employee, permission, or access-log information.
+
 ## What the Project Does
 
 The platform identifies:
