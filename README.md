@@ -45,6 +45,10 @@ The Power BI dashboard includes three pages:
 - Recent access activity
 - Risk reasons and access details
 
+  ## Interactive Demo
+
+[Watch the dashboard walkthrough](demo/dashboard_demo.mp4)
+
 ## Project Workflow
 
 ```text
