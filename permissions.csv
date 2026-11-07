@@ -1,0 +1,49 @@
+permission_id,application_id,permission_name,permission_level,sensitivity_score
+PERM001,APP001,View Employee Profile,Read,1
+PERM002,APP001,Edit Employee Profile,Write,2
+PERM003,APP001,Approve Leave,Approve,3
+PERM004,APP001,Manage HR Settings,Admin,5
+PERM005,APP002,View Payroll Records,Read,1
+PERM006,APP002,Process Payroll,Write,2
+PERM007,APP002,Export Payroll Data,Export,4
+PERM008,APP002,Administer Payroll,Admin,5
+PERM009,APP003,Read Financial Records,Read,1
+PERM010,APP003,Edit Financial Records,Write,2
+PERM011,APP003,Approve Payments,Approve,3
+PERM012,APP003,Export Financial Data,Export,4
+PERM013,APP003,Database Administration,Admin,5
+PERM014,APP004,View Customer Records,Read,1
+PERM015,APP004,Edit Customer Records,Write,2
+PERM016,APP004,Export Customer Data,Export,4
+PERM017,APP004,CRM Administration,Admin,5
+PERM018,APP005,View Campaign Data,Read,1
+PERM019,APP005,Edit Campaign Data,Write,2
+PERM020,APP005,Export Marketing Reports,Export,4
+PERM021,APP005,Analytics Administration,Admin,5
+PERM022,APP006,View Support Tickets,Read,1
+PERM023,APP006,Update Support Tickets,Write,2
+PERM024,APP006,Export Customer Tickets,Export,4
+PERM025,APP006,Support Administration,Admin,5
+PERM026,APP007,View IT Tickets,Read,1
+PERM027,APP007,Resolve IT Tickets,Write,2
+PERM028,APP007,Manage Devices,Approve,3
+PERM029,APP007,ITSM Administration,Admin,5
+PERM030,APP008,View System Logs,Read,1
+PERM031,APP008,Manage Users,Write,2
+PERM032,APP008,Grant Permissions,Approve,3
+PERM033,APP008,System Administration,Admin,5
+PERM034,APP009,Read Warehouse Data,Read,1
+PERM035,APP009,Write Warehouse Data,Write,2
+PERM036,APP009,Export Warehouse Data,Export,4
+PERM037,APP009,Warehouse Administration,Admin,5
+PERM038,APP010,View Legal Cases,Read,1
+PERM039,APP010,Edit Legal Cases,Write,2
+PERM040,APP010,Export Legal Reports,Export,4
+PERM041,APP010,Legal Administration,Admin,5
+PERM042,APP011,View Operations Metrics,Read,1
+PERM043,APP011,Edit Operations Metrics,Write,2
+PERM044,APP011,Approve Operational Changes,Approve,3
+PERM045,APP011,Operations Administration,Admin,5
+PERM046,APP012,View Email Metadata,Read,1
+PERM047,APP012,Manage Collaboration Groups,Write,2
+PERM048,APP012,Collaboration Administration,Admin,5

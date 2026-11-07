@@ -1,0 +1,13 @@
+application_id,application_name,category,owner_department,criticality
+APP001,HR Portal,Human Resources,HR,High
+APP002,Payroll System,Finance,Finance,Critical
+APP003,Finance Database,Finance,Finance,Critical
+APP004,Customer CRM,Customer Management,Sales,High
+APP005,Marketing Analytics,Analytics,Marketing,Medium
+APP006,Customer Support Desk,Customer Support,Customer Support,High
+APP007,IT Service Management,IT Operations,IT,High
+APP008,Admin Console,System Administration,IT,Critical
+APP009,Data Warehouse,Data and Reporting,IT,Critical
+APP010,Legal Case Management,Legal,Legal & Compliance,High
+APP011,Operations Dashboard,Operations,Operations,Medium
+APP012,Email and Collaboration,Communication,IT,High
