@@ -49,6 +49,7 @@ The Power BI dashboard includes three pages:
 
 [Watch the dashboard walkthrough](demo/dashboard_demo.mp4)
 
+
 ## Project Workflow
 
 ```text
@@ -61,3 +62,11 @@ Rule-based risk scoring
 Isolation Forest anomaly detection
         ↓
 Power BI dashboard
+```
+
+## Usage
+
+This repository is shared for portfolio and evaluation purposes.
+Please contact me before reusing or redistributing the code or project materials.
+
+
